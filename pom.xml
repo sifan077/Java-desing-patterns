@@ -10,7 +10,8 @@
     <version>1.0</version>
     <modules>
         <module>01-simple-factory</module>
-        <module>02-factory-method-pattern</module>
+        <module>02-factory-method</module>
+        <module>03-abstract-factory</module>
     </modules>
 
     <properties>
