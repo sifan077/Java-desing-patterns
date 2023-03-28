@@ -12,6 +12,7 @@
         <module>01-simple-factory</module>
         <module>02-factory-method</module>
         <module>03-abstract-factory</module>
+        <module>04-builder</module>
     </modules>
 
     <properties>
