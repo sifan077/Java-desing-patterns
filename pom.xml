@@ -14,6 +14,7 @@
         <module>03-abstract-factory</module>
         <module>04-builder</module>
         <module>05-singleton</module>
+        <module>06-adapter</module>
     </modules>
 
     <properties>
