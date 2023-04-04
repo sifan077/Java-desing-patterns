@@ -16,6 +16,7 @@
         <module>05-singleton</module>
         <module>06-adapter</module>
         <module>08-bridge</module>
+        <module>09-decorator</module>
     </modules>
 
     <properties>

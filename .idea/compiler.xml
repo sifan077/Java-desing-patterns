@@ -10,6 +10,7 @@
         <module name="03-abstract-factory" />
         <module name="04-builder" />
         <module name="01-simple-factory" />
+        <module name="09-decorator" />
         <module name="06-adapter" />
         <module name="05-singleton" />
         <module name="08-bridge" />
