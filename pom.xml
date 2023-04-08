@@ -18,6 +18,7 @@
         <module>08-bridge</module>
         <module>09-decorator</module>
         <module>10-facade</module>
+        <module>11-flyweight</module>
     </modules>
 
     <properties>
