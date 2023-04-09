@@ -12,6 +12,7 @@
         <module name="04-builder" />
         <module name="01-simple-factory" />
         <module name="11-flyweight" />
+        <module name="12-proxy" />
         <module name="09-decorator" />
         <module name="06-adapter" />
         <module name="05-singleton" />
