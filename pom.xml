@@ -20,6 +20,7 @@
         <module>10-facade</module>
         <module>11-flyweight</module>
         <module>12-proxy</module>
+        <module>13-command</module>
     </modules>
 
     <properties>
