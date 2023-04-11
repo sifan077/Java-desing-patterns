@@ -21,6 +21,7 @@
         <module>11-flyweight</module>
         <module>12-proxy</module>
         <module>13-command</module>
+        <module>14-mediator</module>
     </modules>
 
     <properties>
