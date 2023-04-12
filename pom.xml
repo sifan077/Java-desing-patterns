@@ -22,6 +22,7 @@
         <module>12-proxy</module>
         <module>13-command</module>
         <module>14-mediator</module>
+        <module>15-observer</module>
     </modules>
 
     <properties>
