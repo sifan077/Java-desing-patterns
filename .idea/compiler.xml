@@ -16,6 +16,7 @@
         <module name="14-mediator" />
         <module name="04-builder" />
         <module name="15-observer" />
+        <module name="16-state" />
         <module name="01-simple-factory" />
         <module name="12-proxy" />
         <module name="06-adapter" />
