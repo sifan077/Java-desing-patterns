@@ -24,6 +24,7 @@
         <module>14-mediator</module>
         <module>15-observer</module>
         <module>16-state</module>
+        <module>17-strategy</module>
     </modules>
 
     <properties>

@@ -20,6 +20,7 @@
         <module name="01-simple-factory" />
         <module name="12-proxy" />
         <module name="06-adapter" />
+        <module name="17-strategy" />
         <module name="05-singleton" />
       </profile>
     </annotationProcessing>
