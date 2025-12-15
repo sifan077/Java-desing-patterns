@@ -1,7 +1,7 @@
-package com.sfian.factory;
+package com.sifan.factory;
 
-import com.sfian.product.FileLog;
-import com.sfian.product.Log;
+import com.sifan.product.FileLog;
+import com.sifan.product.Log;
 
 /**
  * 文件日志工厂
