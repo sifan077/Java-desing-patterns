@@ -1,5 +1,8 @@
 package com.sifan;
 
+/**
+ * 用户类 - 通过中介者与其他用户通信
+ */
 public class User {
     private String name;
 
@@ -15,7 +18,10 @@ public class User {
         this.name = name;
     }
 
-    public String sendMessage(String message) {
-        return ChatRoom.showMessage(this, message);
+    /**
+     * 发送消息 - 通过中介者协调
+     */
+    public void sendMessage(String message, ChatRoom chatRoom) {
+        chatRoom.showMessage(this, message);
     }
 }

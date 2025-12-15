@@ -1,5 +1,8 @@
 package com.sifan;
 
+/**
+ * 代理图片 - 延迟加载实现
+ */
 public class ProxyImage implements Image {
 
     private RealImage realImage;

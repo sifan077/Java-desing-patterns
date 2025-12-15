@@ -14,7 +14,6 @@ public class SellStock implements Order {
     }
 
     public String execute() {
-        return
-                abcStock.sell();
+        return abcStock.sell();
     }
 }
