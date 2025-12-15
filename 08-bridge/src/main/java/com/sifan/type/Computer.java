@@ -13,7 +13,6 @@ public abstract class Computer {
     public String info() {
         return this.brand.info();
     }
-
 }
 
 

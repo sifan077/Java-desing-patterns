@@ -1,6 +1,6 @@
-package com.sfian.factory;
+package com.sifan.factory;
 
-import com.sfian.product.Log;
+import com.sifan.product.Log;
 
 /**
  * 日志工厂,顶级父类接口

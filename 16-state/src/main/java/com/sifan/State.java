@@ -1,5 +1,8 @@
 package com.sifan;
 
+/**
+ * 状态接口
+ */
 public interface State {
-   public void doAction(Context context);
+   void doAction(Context context);
 }

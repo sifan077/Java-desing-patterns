@@ -1,4 +1,4 @@
-package com.sfian.product;
+package com.sifan.product;
 
 /**
  * 顶级父类接口，日志

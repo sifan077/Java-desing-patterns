@@ -3,24 +3,24 @@ package com.sifan;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ConcreteSubject implements AbstractSubject {
+public class ConcreteSubject implements Subject {
 
-    List<AbstractObserver> list = new ArrayList<>();
+    List<Observer> list = new ArrayList<>();
 
     @Override
-    public void addObserver(AbstractObserver observer) {
+    public void addObserver(Observer observer) {
         list.add(observer);
     }
 
     @Override
-    public void removeObserver(AbstractObserver observer) {
+    public void removeObserver(Observer observer) {
         list.remove(observer);
     }
 
     @Override
-    public void notification() {
-        for (AbstractObserver abstractObserver : list) {
-            abstractObserver.update();
+    public void notifyObservers() {
+        for (Observer observer : list) {
+            observer.update();
         }
     }
 }

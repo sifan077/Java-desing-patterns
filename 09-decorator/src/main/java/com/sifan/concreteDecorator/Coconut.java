@@ -13,11 +13,11 @@ public class Coconut extends Decorator {
 
     @Override
     public String getDescription() {
-        return description+milkTea.getDescription();
+        return description + milkTea.getDescription();
     }
 
     @Override
     public double getPrice() {
-        return milkTea.getPrice()+5;
+        return milkTea.getPrice() + 5;
     }
 }

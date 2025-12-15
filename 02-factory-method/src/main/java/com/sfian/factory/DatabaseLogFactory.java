@@ -1,7 +1,7 @@
-package com.sfian.factory;
+package com.sifan.factory;
 
-import com.sfian.product.DatabaseLog;
-import com.sfian.product.Log;
+import com.sifan.product.DatabaseLog;
+import com.sifan.product.Log;
 
 public class DatabaseLogFactory implements LogFactory {
     @Override

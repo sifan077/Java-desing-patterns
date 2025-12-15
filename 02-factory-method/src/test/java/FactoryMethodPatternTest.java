@@ -1,7 +1,7 @@
-import com.sfian.factory.DatabaseLogFactory;
-import com.sfian.factory.FileLogFactory;
-import com.sfian.factory.LogFactory;
-import com.sfian.product.Log;
+import com.sifan.factory.DatabaseLogFactory;
+import com.sifan.factory.FileLogFactory;
+import com.sifan.factory.LogFactory;
+import com.sifan.product.Log;
 import org.junit.Test;
 
 public class FactoryMethodPatternTest {
